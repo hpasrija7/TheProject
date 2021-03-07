@@ -1,0 +1,14 @@
+
+.hint{
+    color: rgb(70, 203, 252);
+      float: right;
+      margin-right: 0px;
+      padding-right: 20px;
+      background-image: url(./back.jpg);
+      z-index: 0.8;
+      width: 174%;
+      background-color: white;
+      font-size: 40px;
+      text-align: right;
+  
+  }

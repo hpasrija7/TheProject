@@ -6,7 +6,7 @@ function Component2() {
     return(
         <div className="mb-2">
             <Button className="mybutton">
-                Large Button
+                GET Your's
             </Button>{' '}
         </div>
     )

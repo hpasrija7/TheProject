@@ -1,5 +1,5 @@
 import React from "react"
-
+import "./component1.css"
 function Component1() {
     return(
         <div class="hint">

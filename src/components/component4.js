@@ -1,4 +1,5 @@
 import React from "react"
+import "./component4.css"
 
 function Component4() {
     return (

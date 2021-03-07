@@ -1,7 +1,8 @@
 import React from "react";
 import e from "../images/e.jpg";
+import "./component5.css"
 
-function Component4() {
+function Component5() {
   return (
     <div class="wrapper">
       <div class="container" id="item-1">
@@ -40,4 +41,4 @@ function Component4() {
     </div>
   );
 }
-export default Component4;
+export default Component5;

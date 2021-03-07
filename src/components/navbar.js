@@ -3,7 +3,7 @@ import "./navbar.css"
 
 function Navbar() {
     return (
-        <div class="navbar">
+        <div class="mynavbar">
             <a href="#home">Get in Touch</a>
             <div class="subnav">
             <button class="subnavbtn">More <i class="fa fa-caret-down"></i></button>
